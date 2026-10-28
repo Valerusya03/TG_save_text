@@ -1,8 +1,14 @@
 #set up your config.py file in the same directory. it should looks like 
+
 """
+
 api_id = 99999999
+
 api_hash = "qwertyuiopasdfghjkl1234567890dfgh"
+
 phone_number = "+000000000000"
+
+"""
 
 python -m venv venv                     #create virtual environment
 
